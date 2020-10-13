@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.xml.transform.ErrorListener'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
